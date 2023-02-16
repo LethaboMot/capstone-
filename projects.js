@@ -1,13 +1,13 @@
 const projects = [
-    {
+  {
      card: 1, 
      image: './images/Vince gilligan.png',
      header: 'Vince Gilligan',
      paragraph: 'Director of the hit show Breaking bad',
     },
     {
-      card: 2,
-      image: './images/quentin tarantino.png',
+     card: 2,
+     image: './images/quentin tarantino.png',
      header: 'Quentin Tararntino',
      paragraph: 'Director of Django and Kill Bill',
     },
@@ -23,7 +23,7 @@ const projects = [
       header: 'Vince Gilligan',
       paragraph: 'Director of animated film Cowboy bebop',
     },
-  ];
+];
   
   window.onclick = function (event) {
     if (event.target === projects) {
