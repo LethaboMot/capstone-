@@ -60,9 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Capstone project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> the combination of all the the project i have done in the last four weeks with html, css and javascript.
 
 **[Capstone project]** is a...
 
