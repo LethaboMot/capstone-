@@ -12,16 +12,16 @@ const projects = [
     paragraph: 'Director of Django and Kill Bill',
   },
   {
-     card: 3,
-     image: './images/steven knight.png',
-     header: 'Steven Knight',
-     paragraph: 'Director creator of Peaky Blinders',
+    card: 3,
+    image: './images/steven knight.png',
+    header: 'Steven Knight',
+    paragraph: 'Director creator of Peaky Blinders',
   },
   {
-     card: 4,
-     image: './images/watanabe.png',
-     header: 'Vince Gilligan',
-     paragraph: 'Director of animated film Cowboy bebop',
+    card: 4,
+    image: './images/watanabe.png',
+    header: 'Vince Gilligan',
+    paragraph: 'Director of animated film Cowboy bebop',
   },
 ];
 
