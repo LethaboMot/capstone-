@@ -1,5 +1,5 @@
 const projects = [
-    {
+  {
     card: 1,
     image: './images/Vince gilligan.png',
     header: 'Vince Gilligan',
@@ -23,7 +23,7 @@ const projects = [
     header: 'Vince Gilligan',
     paragraph: 'Director of animated film Cowboy bebop',
   },
- ];
+];
 
 window.onclick = function (event) {
   if (event.target === projects) {
