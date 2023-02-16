@@ -1,6 +1,6 @@
 const projects = [
   {
-    card: 1, 
+    card: 1,
     image: './images/Vince gilligan.png',
     header: 'Vince Gilligan',
     paragraph: 'Director of the hit show Breaking bad',
