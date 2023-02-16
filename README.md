@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+>[ Add a link to your deployed project](https://www.loom.com/share/67b80b3e8bcc4e7aa34be97d349c7b05).
 
 - [Live Demo Link](https://lethabomot.github.io/capstone-/index.html)
 
