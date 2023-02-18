@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Capstone project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> the combination of all the the project i have done in the last four weeks with html, css and javascript.
 
-**[your_project__name]** is a...
+**[Capstone project]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[mobile menu]**
+- **[links to website work]**
+- **[switching from about page to home page and home page back to the about page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +109,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+>[https://www.loom.com/share/03d376effd564a849c917e1e6a6f6a98](https://www.loom.com/share/5e2bd88e24b4450399001b4510a9a14f)
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://lethabomot.github.io/capstone-/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +144,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/LethaboMot/capstone-.git
 ```
 --->
 
@@ -218,9 +218,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[mobile menu]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,7 +246,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Thank you Cindy Shin for allowing to work your design.
 
 I would like to thank...
 
