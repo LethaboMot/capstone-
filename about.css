@@ -85,9 +85,21 @@ section {
 }
 
 .images_class {
-  margin-left: 40px;
+  margin-left: 50px;
   margin-right: 80px;
   padding-top: 50px;
+}
+
+.orangebar {
+  padding-left: 30px;
+}
+
+.orangebar2 {
+  padding-left: 200px;
+}
+
+.orangebar3 {
+  padding-left: 200px;
 }
 
 .second_part {
@@ -242,12 +254,12 @@ footer {
   }
 
   h1 {
-    font-size: 70px;
+    font-size: 50px;
   }
 
   h2 {
     font-size: 35px;
-    padding-left: 100px;
+    padding-left: 50px;
     padding-bottom: 40px;
   }
 
@@ -270,6 +282,7 @@ footer {
 
   .images_class {
     padding-left: 320px;
+    padding-bottom: 100px;
   }
 
   .logo {
@@ -281,15 +294,19 @@ footer {
   .image {
     width: 100%;
     height: 80%;
-    padding-left: 400px;
+    padding-left: 300px;
     padding-right: -400px;
+    overflow-x: hidden;
+    display: block;
   }
 
   .image2 {
-    width: 350px;
-    height: 175px;
-    padding-right: 300px;
-    padding-left: -3300px;
+    width: 310px;
+    height: 80%;
+    padding-right: 100px;
+    padding-left: -10px;
+    overflow-x: hidden;
+    display: block;
   }
 
   .info {
@@ -314,15 +331,21 @@ footer {
   }
 
   .adjust {
-    padding-left: 550px;
-    padding-bottom: 50px;
-    padding-top: 40px;
+    padding-left: 510px;
+    padding-bottom: 80px;
+    margin-top: -5px;
+  }
+
+  .orangebar3 {
+    padding-left: 800px;
+    margin-top: -40px;
   }
 
   .global {
-    padding-left: 200px;
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-right: 100px;
+    text-align: center;
   }
 
   .hamburger {
@@ -393,10 +416,14 @@ footer {
     color: #272a31;
   }
 
+  .orangebar {
+    padding-left: 20px;
+  }
+
   .information {
     padding-bottom: 40px;
     padding-left: 50px;
-    font-size: 50px;
+    font-size: 16px;
   }
 
   .credit {
@@ -436,6 +463,11 @@ footer {
     padding-left: 300px;
     color: white;
     font-size: 15px;
+  }
+
+  .orangebar2 {
+    padding-left: 500px;
+    margin-top: -40px;
   }
 
   p .paragraph {
