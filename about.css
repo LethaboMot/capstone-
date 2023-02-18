@@ -85,9 +85,9 @@ section {
 }
 
 .images_class {
-  margin-left: 50px;
-  margin-right: 80px;
+  margin-left: 40px;
   padding-top: 50px;
+  overflow-x: hidden;
 }
 
 .orangebar {
