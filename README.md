@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->https://www.loom.com/share/03d376effd564a849c917e1e6a6f6a98
+>[https://www.loom.com/share/03d376effd564a849c917e1e6a6f6a98](https://www.loom.com/share/5e2bd88e24b4450399001b4510a9a14f)
 
 - [Live Demo Link](https://lethabomot.github.io/capstone-/index.html)
 
