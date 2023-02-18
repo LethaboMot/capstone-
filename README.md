@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->https://www.loom.com/share/541d54bfdce945888c72e1578a2ae33c
+>https://www.loom.com/share/03d376effd564a849c917e1e6a6f6a98
 
 - [Live Demo Link](https://lethabomot.github.io/capstone-/index.html)
 
@@ -246,7 +246,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Thank you Cindy Shin for allowing to work your design.
 
 I would like to thank...
 
